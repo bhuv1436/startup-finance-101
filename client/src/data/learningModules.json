@@ -1,0 +1,50 @@
+[
+  {
+    "color": "primary",
+    "icon": "fa-money-bill-trend-up",
+    "title": "Fundraising Basics",
+    "description": "Learn about different funding stages, valuation methods, and how to approach investors.",
+    "lessons": 6,
+    "duration": 45
+  },
+  {
+    "color": "green",
+    "icon": "fa-calculator",
+    "title": "Burn Rate & Runway",
+    "description": "Calculate how fast you're spending money and how long it will last.",
+    "lessons": 4,
+    "duration": 30
+  },
+  {
+    "color": "purple",
+    "icon": "fa-chart-pie",
+    "title": "Cap Tables & Dilution",
+    "description": "Understand equity ownership, dilution through funding rounds, and option pools.",
+    "lessons": 5,
+    "duration": 40
+  },
+  {
+    "color": "blue",
+    "icon": "fa-users",
+    "title": "Unit Economics",
+    "description": "Master CAC, LTV, payback periods and other key customer metrics.",
+    "lessons": 6,
+    "duration": 50
+  },
+  {
+    "color": "amber",
+    "icon": "fa-file-contract",
+    "title": "Term Sheets",
+    "description": "Decode investor term sheets and understand key legal provisions.",
+    "lessons": 7,
+    "duration": 60
+  },
+  {
+    "color": "pink",
+    "icon": "fa-chart-line",
+    "title": "Financial Modeling",
+    "description": "Create realistic financial projections for your startup's growth.",
+    "lessons": 5,
+    "duration": 45
+  }
+]

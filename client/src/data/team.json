@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Sarah Chen",
+    "role": "Founder & CEO",
+    "bio": "Ex-VC with 8 years of investing experience. Previously at Sequoia Capital."
+  },
+  {
+    "name": "Michael Rodriguez",
+    "role": "CTO",
+    "bio": "3x technical founder with exits to Google and Microsoft."
+  },
+  {
+    "name": "Priya Patel",
+    "role": "Head of Content",
+    "bio": "Former CFO with experience at early and growth-stage startups."
+  },
+  {
+    "name": "David Kim",
+    "role": "Financial Advisor",
+    "bio": "15+ years in startup finance consulting with expertise in venture debt."
+  },
+  {
+    "name": "Alex Thompson",
+    "role": "Educational Director",
+    "bio": "Previously taught finance at Stanford and authored two books on startup economics."
+  },
+  {
+    "name": "Jasmine Wong",
+    "role": "Community Manager",
+    "bio": "Built multiple founder communities with a focus on underrepresented entrepreneurs."
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Angel Investor",
+    "category": "Fundraising",
+    "description": "An individual who provides capital to startups or entrepreneurs, usually in exchange for ownership equity or convertible debt. Angel investors typically invest at the early stages of a company.",
+    "example": "A founder raises $250,000 from three angel investors at a $2.5 million valuation, giving the angels a total of 10% equity in the company."
+  },
+  {
+    "title": "Anti-Dilution",
+    "category": "Cap Table",
+    "description": "A provision that protects investors from equity dilution resulting from later issues of stock at a lower price than they paid. These are often included in financing terms to protect early investors.",
+    "example": "When a startup raises a down round at a lower valuation, the anti-dilution provision allows Series A investors to convert their shares at a more favorable rate, maintaining more of their ownership percentage."
+  },
+  {
+    "title": "Burn Rate",
+    "category": "Finance",
+    "description": "The rate at which a company spends its cash reserves before generating positive cash flow. It's typically measured monthly and is a critical metric for startups to monitor.",
+    "example": "A startup with $1.2 million in the bank spending $100,000 per month has a burn rate of $100,000 and a 12-month runway."
+  },
+  {
+    "title": "Bridge Round",
+    "category": "Fundraising",
+    "description": "A short-term round of financing intended to provide a startup with enough capital to reach its next major milestone or funding round. Often structured as convertible notes or SAFE agreements.",
+    "example": "A startup raised a $500,000 bridge round to extend runway by 6 months while finalizing their Series A term sheet."
+  },
+  {
+    "title": "Cap Table",
+    "category": "Cap Table",
+    "description": "Short for capitalization table, a spreadsheet showing the equity ownership, value and dilution of founders and investors in a company. It typically includes all equity ownership stakes, including preferred shares, options, warrants, and convertible securities.",
+    "example": "After the Series A round, the cap table showed the founders owned 70%, the investors 25%, and the employee option pool was 5%."
+  },
+  {
+    "title": "CAC (Customer Acquisition Cost)",
+    "category": "Finance",
+    "description": "The total cost of acquiring a new customer, including marketing and sales expenses. It's calculated by dividing total acquisition expenses by the number of new customers in a given period.",
+    "example": "If a SaaS company spends $50,000 on marketing in a month and acquires 100 new customers, the CAC is $500 per customer."
+  },
+  {
+    "title": "Convertible Note",
+    "category": "Fundraising",
+    "description": "A short-term debt that converts into equity at a future funding round. Typically used by early-stage startups to delay valuation discussions until a larger, priced equity round.",
+    "example": "The startup raised $500,000 in convertible notes with a 20% discount and $5 million valuation cap, which later converted into Series A preferred shares."
+  },
+  {
+    "title": "Dilution",
+    "category": "Cap Table",
+    "description": "The decrease in ownership percentage of existing shareholders when a company issues new shares. This typically happens during new funding rounds when investors purchase newly issued shares.",
+    "example": "The founders initially owned 100% of the company, but after two funding rounds they were diluted to 60% ownership."
+  },
+  {
+    "title": "EBITDA",
+    "category": "Finance",
+    "description": "Earnings Before Interest, Taxes, Depreciation, and Amortization. A measure of a company's overall financial performance and is used as an alternative to net income in some circumstances.",
+    "example": "The startup had negative net income but showed positive EBITDA of $300,000, demonstrating operational profitability before accounting for non-operating expenses."
+  },
+  {
+    "title": "Exit",
+    "category": "Fundraising",
+    "description": "The method by which investors and founders realize their returns from a startup. Common exits include acquisitions by larger companies or initial public offerings (IPOs).",
+    "example": "After scaling to $20 million in ARR, the startup achieved a successful exit through an acquisition by a public company for $200 million."
+  },
+  {
+    "title": "Founder Vesting",
+    "category": "Cap Table",
+    "description": "A process where founders earn their equity stakes over time rather than owning them outright immediately. This protects the company and co-founders if someone leaves early.",
+    "example": "The founders agreed to a 4-year vesting schedule with a 1-year cliff, meaning they would earn 25% of their shares after the first year and the remainder monthly over the following three years."
+  },
+  {
+    "title": "LTV (Lifetime Value)",
+    "category": "Finance",
+    "description": "The predicted total revenue a business expects to earn from a single customer throughout their entire relationship. This metric helps determine how much a company can spend to acquire a new customer.",
+    "example": "With an average subscription length of 3 years and $100 monthly revenue per customer, the company's LTV is $3,600."
+  },
+  {
+    "title": "MRR (Monthly Recurring Revenue)",
+    "category": "Finance",
+    "description": "The predictable revenue a company expects to receive every month from subscription customers. A critical metric for SaaS and other subscription-based businesses.",
+    "example": "The SaaS startup grew from $10,000 MRR to $100,000 MRR in 18 months, demonstrating strong product-market fit."
+  },
+  {
+    "title": "Option Pool",
+    "category": "Cap Table",
+    "description": "A portion of equity reserved for future issuance to employees, advisors, directors, and consultants. Typically ranges from 10-20% of the fully diluted shares outstanding.",
+    "example": "The startup created a 15% option pool before the Series A, which diluted all existing shareholders proportionally."
+  },
+  {
+    "title": "Pre-money Valuation",
+    "category": "Fundraising",
+    "description": "The valuation of a company before it receives the investment from external investors. Used to determine how much equity investors will receive for their investment.",
+    "example": "With a $4 million pre-money valuation and a $1 million investment, the investors received 20% of the company post-investment."
+  },
+  {
+    "title": "Post-money Valuation",
+    "category": "Fundraising",
+    "description": "The valuation of a company immediately after it receives the investment from external investors. Equal to the pre-money valuation plus the amount of new equity investment.",
+    "example": "After raising $2 million at a $8 million pre-money valuation, the company's post-money valuation became $10 million."
+  },
+  {
+    "title": "Runway",
+    "category": "Finance",
+    "description": "The amount of time a company can operate before it runs out of cash, assuming no additional revenue or funding. Calculated by dividing current cash by monthly burn rate.",
+    "example": "With $1.5 million in the bank and a monthly burn rate of $125,000, the startup has a 12-month runway to achieve its next milestones."
+  },
+  {
+    "title": "SAFE (Simple Agreement for Future Equity)",
+    "category": "Fundraising",
+    "description": "An investment instrument developed by Y Combinator as an alternative to convertible notes. It grants investors the right to obtain equity in a future priced round.",
+    "example": "The startup raised $750,000 using SAFEs with a $5 million valuation cap, which will convert to equity during the Series A financing."
+  },
+  {
+    "title": "Series A/B/C",
+    "category": "Fundraising",
+    "description": "Sequential rounds of funding that startups typically raise as they grow. Series A is usually the first significant round of venture capital financing after seed funding.",
+    "example": "After demonstrating product-market fit with their seed funding, the company raised a $5 million Series A to accelerate growth and expand their team."
+  },
+  {
+    "title": "Term Sheet",
+    "category": "Fundraising",
+    "description": "A non-binding document outlining the major aspects of an investment to be made in a company. It serves as a template for the legal documents that will be required for the investment.",
+    "example": "The VC presented a term sheet offering $3 million for 20% equity with a board seat and participation rights in future rounds."
+  },
+  {
+    "title": "Unit Economics",
+    "category": "Finance",
+    "description": "The direct revenues and costs associated with a specific business model expressed on a per unit basis. Helps determine if a business can be profitable at scale.",
+    "example": "The company's unit economics showed that each new customer costs $500 to acquire but generates $1,500 in lifetime profit, indicating a sustainable business model."
+  },
+  {
+    "title": "Valuation Cap",
+    "category": "Fundraising",
+    "description": "In a convertible note or SAFE, the maximum valuation at which the investment converts into equity, regardless of the valuation set in the subsequent priced round.",
+    "example": "Investors put in $200,000 with a $4 million valuation cap, and when the company later raised at a $10 million valuation, the early investors converted as if the valuation was still $4 million, giving them more equity."
+  },
+  {
+    "title": "Venture Capital",
+    "category": "Fundraising",
+    "description": "A form of private equity financing provided by firms or funds to startups and small businesses with high growth potential. VCs typically invest in exchange for equity and take an active role in the company.",
+    "example": "The founder pitched to over 30 venture capital firms before securing a $2 million investment from a VC specializing in enterprise software."
+  }
+]

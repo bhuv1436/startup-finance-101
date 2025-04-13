@@ -1,0 +1,38 @@
+[
+  {
+    "type": "excel",
+    "fileType": "Excel Template",
+    "title": "Startup Cap Table Template",
+    "description": "Track equity ownership across multiple funding rounds with this comprehensive template.",
+    "downloads": 14,
+    "color": "primary",
+    "icon": "fa-file-excel"
+  },
+  {
+    "type": "pdf",
+    "fileType": "PDF Guide",
+    "title": "Financial Projection Guide",
+    "description": "Step-by-step instructions for creating realistic financial projections for your startup.",
+    "downloads": 23,
+    "color": "green",
+    "icon": "fa-file-pdf"
+  },
+  {
+    "type": "powerpoint",
+    "fileType": "Powerpoint Template",
+    "title": "Investor Pitch Deck Template",
+    "description": "Professional slide templates for pitching to angel investors and venture capitalists.",
+    "downloads": 42,
+    "color": "amber",
+    "icon": "fa-file-powerpoint"
+  },
+  {
+    "type": "word",
+    "fileType": "Word Template",
+    "title": "Term Sheet Template",
+    "description": "Standard term sheet template with explanations of key provisions for seed and Series A rounds.",
+    "downloads": 19,
+    "color": "purple",
+    "icon": "fa-file-word"
+  }
+]

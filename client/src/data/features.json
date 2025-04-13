@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "fa-money-bill-trend-up",
+    "title": "Startup Fundraising",
+    "description": "Learn the stages, metrics and expectations for each round from pre-seed to Series B."
+  },
+  {
+    "icon": "fa-chart-pie",
+    "title": "Cap Tables & Dilution",
+    "description": "Understand equity splits, option pools, and how dilution affects founder ownership over time."
+  },
+  {
+    "icon": "fa-calculator",
+    "title": "Burn Rate & Runway",
+    "description": "Calculate your cash burn and runway accurately to prevent cash flow surprises."
+  },
+  {
+    "icon": "fa-users",
+    "title": "Customer Economics",
+    "description": "Master CAC, LTV, payback periods and unit economics to prove your business model."
+  },
+  {
+    "icon": "fa-file-contract",
+    "title": "Term Sheets",
+    "description": "Decode investor term sheets and understand the implications of key provisions."
+  },
+  {
+    "icon": "fa-bullseye",
+    "title": "Financial Modeling",
+    "description": "Create realistic financial projections without overcomplicating the process."
+  }
+]

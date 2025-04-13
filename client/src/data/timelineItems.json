@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Startup Finance Fundamentals",
+    "description": "Start with basic financial terminology and concepts that serve as the foundation.",
+    "linkText": "Begin Here"
+  },
+  {
+    "title": "Burn Rate & Runway Calculations",
+    "description": "Learn to track and project your company's cash position accurately.",
+    "linkText": "Continue Learning"
+  },
+  {
+    "title": "Fundraising Mechanics",
+    "description": "Understand how startup fundraising works from angels to Series B.",
+    "linkText": "Explore Next"
+  },
+  {
+    "title": "Cap Tables & Equity Management",
+    "description": "Master the intricacies of equity splits, vesting, and dilution effects.",
+    "linkText": "Dive Deeper"
+  },
+  {
+    "title": "Unit Economics & Metrics",
+    "description": "Calculate and optimize the core financial metrics that investors care about.",
+    "linkText": "Learn More"
+  }
+]
