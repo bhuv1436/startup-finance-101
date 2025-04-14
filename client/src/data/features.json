@@ -2,31 +2,37 @@
   {
     "icon": "fa-money-bill-trend-up",
     "title": "Startup Fundraising",
-    "description": "Learn the stages, metrics and expectations for each round from pre-seed to Series B."
+    "description": "Learn the stages, metrics and expectations for each round from pre-seed to Series B.",
+    "link": "/learn/fundraising-basics"
   },
   {
     "icon": "fa-chart-pie",
     "title": "Cap Tables & Dilution",
-    "description": "Understand equity splits, option pools, and how dilution affects founder ownership over time."
+    "description": "Understand equity splits, option pools, and how dilution affects founder ownership over time.",
+    "link": "/learn/cap-tables"
   },
   {
     "icon": "fa-calculator",
     "title": "Burn Rate & Runway",
-    "description": "Calculate your cash burn and runway accurately to prevent cash flow surprises."
+    "description": "Calculate your cash burn and runway accurately to prevent cash flow surprises.",
+    "link": "/learn/burn-rate"
   },
   {
     "icon": "fa-users",
     "title": "Customer Economics",
-    "description": "Master CAC, LTV, payback periods and unit economics to prove your business model."
+    "description": "Master CAC, LTV, payback periods and unit economics to prove your business model.",
+    "link": "/learn/unit-economics"
   },
   {
     "icon": "fa-file-contract",
     "title": "Term Sheets",
-    "description": "Decode investor term sheets and understand the implications of key provisions."
+    "description": "Decode investor term sheets and understand the implications of key provisions.",
+    "link": "/learn/term-sheets"
   },
   {
     "icon": "fa-bullseye",
     "title": "Financial Modeling",
-    "description": "Create realistic financial projections without overcomplicating the process."
+    "description": "Create realistic financial projections without overcomplicating the process.",
+    "link": "/learn/financial-modeling"
   }
 ]

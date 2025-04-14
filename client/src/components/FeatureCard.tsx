@@ -1,21 +1,31 @@
 import { motion } from "framer-motion";
+import { useLocation } from "wouter";
 
 interface FeatureCardProps {
-  icon: string;
+  icon: string;            // Font Awesome class
   title: string;
   description: string;
   delay?: number;
+  link: string;
 }
 
-const FeatureCard = ({ icon, title, description, delay = 0 }: FeatureCardProps) => {
+const FeatureCard = ({
+  icon,
+  title,
+  description,
+  delay = 0,
+  link
+}: FeatureCardProps) => {
+  const [, navigate] = useLocation();
+
   return (
-    <motion.div 
+    <motion.div
       className="bg-white dark:bg-gray-900 p-6 rounded-xl shadow-lg border border-gray-100 dark:border-gray-700 cursor-pointer hover:shadow-xl transition-shadow"
       initial={{ opacity: 0, y: 20 }}
       whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true }}
       transition={{ duration: 0.5, delay }}
-      onClick={() => window.location.href = '/learn'}
+      onClick={() => navigate(link)} // ✅ hash-safe routing
       whileHover={{ scale: 1.02 }}
       whileTap={{ scale: 0.98 }}
     >
